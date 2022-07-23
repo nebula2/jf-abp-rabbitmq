@@ -9,7 +9,7 @@ namespace Jf.Abp.RabbitMQ;
 [DependsOn(
     typeof(AbpEventBusModule),
     typeof(AbpRabbitMqModule))]
-public class AbpEventBusRabbitMqModule : AbpModule
+public class JfAbpRabbitMqModule : AbpModule
 {
     public override void ConfigureServices(ServiceConfigurationContext context)
     {
