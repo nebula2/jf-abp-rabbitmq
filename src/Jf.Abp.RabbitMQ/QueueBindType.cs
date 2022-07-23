@@ -1,1 +1,0 @@
-﻿namespace Jf.Abp.RabbitMQ;
